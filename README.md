@@ -20,6 +20,35 @@ Most often, a new project starts with a list of tasks to outline what needs to b
 
 Although some online tools are useful to manage large projects efficiently, using them in early stages will add more effort and overhead for an MVP Product.
 
+### TODO.md format
+
+- TODO.md can have multiple columns.
+- Each column has tasks that start with a checkbox sign `- [ ]` or just a hyphen `- `
+- Completed column name must contain `✓` or `[x]`.
+- There are "2 spaces" at the end of every task title to serve as line breaks on Github pages.
+
+```
+# Project Name
+Project Description
+
+### Column Name
+- [ ] Task title #type @name yyyy-mm-dd  
+
+### Completed Column ✓
+- [x] Completed task title  
+```
+
+- Checkboxes are used as described in [GFM - GitHub Flavored Markdown - Task Lists](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) but they are optional.
+- A task list without checkboxes look like this:
+
+```
+### Column Name
+- Task title #type @name yyyy-mm-dd  
+
+### Completed Column ✓
+- Completed task title  
+```
+
 ### See also
 
 - [An example of TODO.md](TODO.md)

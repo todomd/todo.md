@@ -4,7 +4,7 @@ This is an example of TODO.md
 
 ### Todo
 
-- [ ] Work on the website #feat @john
+- [ ] Work on the website #feat @john 2020-03-20
 - [ ] Fix the homepage #bug @jane
 
 ### In Progress
