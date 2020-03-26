@@ -27,6 +27,7 @@ Although some online tools are useful to manage large projects efficiently, usin
 - Completed column name must contain `✓` or `[x]`.
 - There are "2 spaces" at the end of every task title to serve as line breaks on Github pages.
 - Tags, mentions, estimate, date time, ticket id, etc. can be entered at the end of the task title.
+- A task with 2 space indentation in the title is a sub-task or description. 
 
 ```
 # Project Name
@@ -34,6 +35,7 @@ Project Description
 
 ### Column Name
 - [ ] Task title ~3d #type @name yyyy-mm-dd  
+  - [ ] Sub-task or description  
 
 ### Completed Column ✓
 - [x] Completed task title  
@@ -45,6 +47,7 @@ Project Description
 ```
 ### Column Name
 - Task title ~3d #type @name yyyy-mm-dd  
+  - Sub-task or description  
 
 ### Completed Column ✓
 - Completed task title  
