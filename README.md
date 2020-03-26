@@ -26,13 +26,14 @@ Although some online tools are useful to manage large projects efficiently, usin
 - Each column has tasks that start with a checkbox sign `- [ ]` or just a hyphen `- `
 - Completed column name must contain `✓` or `[x]`.
 - There are "2 spaces" at the end of every task title to serve as line breaks on Github pages.
+- Tags, mentions, estimate, date time, ticket id, etc. can be entered at the end of the task title.
 
 ```
 # Project Name
 Project Description
 
 ### Column Name
-- [ ] Task title #type @name yyyy-mm-dd  
+- [ ] Task title ~3d #type @name yyyy-mm-dd  
 
 ### Completed Column ✓
 - [x] Completed task title  
@@ -43,7 +44,7 @@ Project Description
 
 ```
 ### Column Name
-- Task title #type @name yyyy-mm-dd  
+- Task title ~3d #type @name yyyy-mm-dd  
 
 ### Completed Column ✓
 - Completed task title  
@@ -52,3 +53,4 @@ Project Description
 ### See also
 
 - [An example of TODO.md](TODO.md)
+- [Vscode Kanban Extension](https://bit.ly/2JcrUWJ)

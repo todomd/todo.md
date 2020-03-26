@@ -2,14 +2,16 @@
 
 This is an example of TODO.md
 
+View the raw content of this file to understand the format.
+
 ### Todo
 
-- [ ] Work on the website #feat @john 2020-03-20
-- [ ] Fix the homepage #bug @jane
+- [ ] Work on the website ~3d #feat @john 2020-03-20
+- [ ] Fix the homepage ~1d #bug @jane
 
 ### In Progress
 
-- [ ] Register a domain [JIRA-345]
+- [ ] Work on Github Repo [JIRA-345]
 
 ### Done ✓
 
