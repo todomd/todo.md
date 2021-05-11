@@ -28,3 +28,4 @@ Use **P0**, **P1**, **P2**, **P3** at the end for priorities. Optional items can
     - [x] Set prority in `TODO2.md` (P2)
     - [x] Change Optional in `TODO2.md` (P1)
         - [x] Use **P3** to Optional (P2)
+    - [x] Change description (P2)

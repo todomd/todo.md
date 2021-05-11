@@ -1,29 +1,14 @@
 # Description
-Repositorie about how to do TO-DO list on markdown.
+Repository about how to create a TODO list using markdown.
 
 # Content EN
-- [Structure of directories](#Structure-of-directories)
 - [What is TODO.md?](#What-is-`TODO.md`?)
 - [Why keep a TODO.md?](#Why-keep-a-`TODO.md`?)
 - [Why are we not using online management tools?](#Why-are-we-not-using-online-management-tools?)
 - [TODO.md format](#`TODO.md`-format)
 - [Examples](#examples)
 - [See also](#See-also)
-
-
 ----
-## Structure of directories
-```txt
-.
-├── README.md
-├── LICENSE
-└── Examples_TODO
-    └── TODO.md
-    └── TODO2.md
-    └── TODO3.md
-    └── TODO[..].md
-```
-
 ## What is `TODO.md`?
 
 The `TODO.md` format is based on [GFM - GitHub Flavored Markdown - Task Lists](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown).
@@ -84,5 +69,4 @@ Project Description
 
 ## See also
 - [Vscode Kanban Board Extension](https://marketplace.visualstudio.com/items?itemName=coddx.coddx-alpha&ssr=false)
-- [Vscode Kanban Extension](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-kanban)
 - [README_ES](README_ES.md)
