@@ -12,13 +12,13 @@ Tasks in TODO.md can be visualized using [Kanban Board](https://en.wikipedia.org
 
 For a project, there any many sources of information like Documentation, Issue forum, Wiki pages, etc. It is hard to find out about the current progress.
 
-Keeping a TODO.md file makes it easier for anyone wants to know about the project's plans and work needs to be done.
+Keeping a TODO.md file makes it easier for anyone who wants to know about the project's plans and work that needs to be done.
 
 ### Why not using online management tools?
 
 Most often, a new project starts with a list of tasks to outline what needs to be done quickly. 
 
-Although some online tools are useful to manage large projects efficiently, using them in early stages will add more effort and overhead for an MVP Product.
+Although some online tools are useful to manage large projects efficiently, using them in the early stages will add more effort and overhead for an MVP Product.
 
 ### TODO.md format
 
@@ -26,7 +26,7 @@ Although some online tools are useful to manage large projects efficiently, usin
 - Each column has tasks that start with a checkbox sign `- [ ]` or just a hyphen `- `
 - Completed column name must contain `✓` or `[x]`.
 - There are "2 spaces" at the end of every task title to serve as line breaks on Github pages.
-- Tags, mentions, estimate, date time, ticket id, etc. can be entered at the end of the task title.
+- Tags, mentions, estimates, date time, ticket id, etc. can be entered at the end of the task title.
 - A task with 2 space indentation in the title is a sub-task or description. 
 
 ```
