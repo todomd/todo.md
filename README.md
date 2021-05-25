@@ -16,9 +16,11 @@ Keeping a TODO.md file makes it easier for anyone who wants to know about the pr
 
 ### Why not using online management tools?
 
-Most often, a new project starts with a list of tasks to outline what needs to be done quickly. 
+Often times, a new project starts with a list of tasks to outline what needs to be done quickly.
 
-Although some online tools are useful to manage large projects efficiently, using them in the early stages will add more effort and overhead for an MVP Product.
+Although some online tools are useful to manage larger projects efficiently, using them in the early stages will add more effort and overhead for small projects.
+
+A few other reasons like: portable plain text format, same project directory, offline working, privacy, versioning (using git), minimalist tool, etc.
 
 ### TODO.md format
 
