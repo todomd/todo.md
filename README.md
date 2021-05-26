@@ -8,7 +8,9 @@ Repository about how to create a TODO list using markdown.
 - [TODO.md format](#`TODO.md`-format)
 - [Examples](#examples)
 - [See also](#See-also)
+
 ----
+
 ## What is `TODO.md`?
 
 The `TODO.md` format is based on [GFM - GitHub Flavored Markdown - Task Lists](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown).
@@ -21,13 +23,15 @@ Tasks in `TODO.md` can be visualized using [Kanban Board](https://en.wikipedia.o
 
 For a project, there any many sources of information like Documentation, Issue forum, Wiki pages, etc. It is hard to find out about the current progress.
 
-Keeping a `TODO.md` file makes it easier for anyone wants to know about the project's plans and work needs to be done.
+Keeping a `TODO.md` file makes it easier for anyone who wants to know about the project's plans and work that needs to be done.
 
 ## Why are we not using online management tools?
 
-Most often, a new project starts with a list of tasks to outline what needs to be done quickly.
+Often times, a new project starts with a list of tasks to outline what needs to be done quickly.
 
-Although some online tools are useful to manage large projects efficiently, using them in early stages will add more effort and overhead for an MVP Product.
+Although some online tools are useful to manage larger projects efficiently, using them in the early stages will add more effort and overhead for small projects.
+
+A few other reasons like: portable plain text format, same project directory, offline working, privacy, versioning (using git), minimalist tool, etc.
 
 ### `TODO.md` format
 
@@ -61,6 +65,7 @@ Project Description
 ### Completed Column ✓
 - Completed task title
 ```
+
 ## Extra: Declined task
 - [-] Example to declined task
 ## Examples
