@@ -12,7 +12,7 @@ View the raw content of this file to understand the format.
 
 ### In Progress
 
-- [ ] Work on Github Repo [JIRA-345]  
+- [ ] Work on GitHub Repo [JIRA-345]  
 
 ### Done ✓
 
