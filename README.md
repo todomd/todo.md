@@ -15,6 +15,10 @@ Repository about how to create a TODO list using markdown.
 
 The `TODO.md` format is based on [GFM - GitHub Flavored Markdown - Task Lists](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown).
 
+- TODO.md is a file that contains tasks organized in multiple sections.
+- Tasks in TODO.md can be visualized using [Kanban Board](https://en.wikipedia.org/wiki/Kanban_board) where sections become columns on the board.
+- Inspired by [Keep a Changelog](https://github.com/olivierlacan/keep-a-changelog)
+
 `TODO.md` is a file that contains tasks organized in multiple sections.
 
 Tasks in `TODO.md` can be visualized using [Kanban Board](https://en.wikipedia.org/wiki/Kanban_board) where sections become columns on the board.
